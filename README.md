@@ -27,6 +27,7 @@ This profile serves as an archive of personal engineering experiments, academic 
 
 ### Tech Stack
 
-* **Systems & Embedded:** C, C++, SystemVerilog, Embedded Linux, CAN-Bus, mbedTLS / MQTT
+* **Systems & Embedded:** C, C++, CAN-Bus, mbedTLS / MQTT
 * **Scientific & ML:** MATLAB / Simulink, Python (PyTorch, scikit-learn, PyQt)
 * **Tooling & Cloud:** Git, Docker, Jenkins, AWS, Linux
+* **Web Development:** HTML/CSS, PHP, JavaScript, SQL
